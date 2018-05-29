@@ -1,5 +1,5 @@
 //@version=3
-// The majority of this script I took from the Autoview website. There are some typos in it, some things I've added, things I will add, and I'm tired pulling my strategy code out and uploading this to pastebin for people.
+// The majority of this script I took from the Autoview website. There are some typos in the original that I've fixed, some things I've added, things I will add, and I'm tired pulling my strategy code out and uploading this to pastebin for people.
 // DISCLAIMER: I am not a financial advisor, this is not financial advice, do not use this code without first doing your own research, etc, etc, it's not my fault when you lose your house.
 
 // Read the comments if you want to use alerts on TradingView they will tell you what to comment and uncomment
