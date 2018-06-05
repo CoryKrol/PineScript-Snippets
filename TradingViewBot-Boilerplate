@@ -243,13 +243,6 @@ plot(isSL and in_shortCondition and last_high_short < averageShorts + averageSho
 //plot(longClose, "Long Close", longCloseCol)
 //plot(shortClose, "Short Close", shortCloseCol)
 
-
-// New Signal Plots
-//plotshape(series=longCondition, title="Long", style=shape.triangleup, location=location.belowbar, color=green, size=size.tiny)
-//plotshape(series=shortCondition, title="Short", style=shape.triangledown, location=location.abovebar, color=red, size=size.tiny)
-//plotshape(series=longClose, title="Long Close", style=shape.triangleup, location=location.belowbar, color=blue, size=size.tiny)
-//plotshape(series=shortClose, title="Short Close", style=shape.triangledown, location=location.abovebar, color=purple, size=size.tiny)
-
 // Uncomment for your alerts
 //alertcondition(condition=longCondition, title="Long", message="")
 //alertcondition(condition=shortCondition, title="Short", message="")
